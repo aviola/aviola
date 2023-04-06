@@ -1,4 +1,4 @@
 ## Hi there, I'm Alessio 👋
 
-- 👨‍💻 I'm working as **Software Engineer** at [Ericsson](https://www.ericsson.com/)
+- 👨‍💻 I'm working as **Senior Software Engineer** at [EDB](https://www.enterprisedb.com/)
 - ☕ Chat with me: [Calendly](https://calendly.com/aviola-swe/chat-30m)
